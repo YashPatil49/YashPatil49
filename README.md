@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Full Stack Dev**
 
-- 📫 How to reach me **ypatil@gmail.com**
+- 📫 How to reach me **ypatil1708@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
